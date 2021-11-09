@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+Tenemos el conocimiento necesario para enfrentar cualquier problema de datos o analítica, que un cliente tenga con su organización, con su grupo. 
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Nosotros diseñamos soluciones; la analítica y el diseño son nuestras prioridades para no solo dar los métodos, sino la forma de comunicación de resultados lo mas asertivo posible. 
+
