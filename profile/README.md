@@ -1,4 +1,4 @@
-![3513023](https://user-images.githubusercontent.com/91501857/140942193-6a0d1248-9b35-4cb9-a1a7-5e612ee9b881.jpg)
+![3513023]([https://user-images.githubusercontent.com/91501857/140942193-6a0d1248-9b35-4cb9-a1a7-5e612ee9b881.jpg](https://cdn.forbes.co/2020/05/Data-scientist-Getty-Images-1280720.jpg))
 
 
 ## Hola! 👋
