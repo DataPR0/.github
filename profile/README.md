@@ -1,6 +1,6 @@
 ![3513023](https://martech.org/wp-content/uploads/2014/08/analytics-ss-1920.jpg)
 
-# Equipo de Analítica | El Garaje
+# Equipo Analítica | El Garaje
 
 ¡Bienvenido al repositorio de GitHub de nuestro equipo de Analítica | El Garaje! Somos un equipo comprometido en proporcionar análisis de datos de alta calidad para tomar decisiones informadas en nuestra organización.
 
