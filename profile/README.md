@@ -1,26 +1,36 @@
 ![3513023](https://martech.org/wp-content/uploads/2014/08/analytics-ss-1920.jpg)
 
+# Equipo de Analítica | El Garaje
 
-## Hola! 👋
-
-#La curiosidad es nuestro motor, los datos nuestra brújula.
-
-![image](https://user-images.githubusercontent.com/91501857/140941214-79df91d8-cae7-4b98-90ee-87357d02c6e7.png)
-Soluciones analíticas . 
-
-![image](https://user-images.githubusercontent.com/91501857/140941002-c3c4c1f7-65b5-4923-bf45-7a44fb8cccc3.png)
-Nosotros diseñamos soluciones; la analítica y el diseño son nuestras prioridades para no solo dar los métodos, sino la forma de comunicación de resultados lo mas asertivo posible. 
+¡Bienvenido al repositorio de GitHub de nuestro equipo de Analítica | El Garaje! Somos un equipo comprometido en proporcionar análisis de datos de alta calidad para tomar decisiones informadas en nuestra organización.
 
 
+## Objetivos
 
-### Impacto. 
-![image](https://user-images.githubusercontent.com/91501857/140943778-503c9817-4a4b-429f-a142-baacad9be076.png)
-El rendimiento es el eje de lo que hacemos. Tomando al deporte como inspiración, sabemos que el borde más pequeño puede marcar la mayor diferencia. Nuestro equipo multidisciplinario le dará a los clientes la ventaja necesaria sim importar lo pequeño del borde.
+Nuestro equipo se enfoca en:
 
-### Confianza.
-![image](https://user-images.githubusercontent.com/91501857/140944279-896c8ec1-a1b8-41e6-8bac-b4e83acd8cff.png)
-Los datos es el activo mas valioso de cualquier organización, de cualquiera de nuestros clientes, y la discreción es nuestra moneda de cambio. 
-Nos esforzamos por mantener los más altos niveles de manejo de datos, gobernanza y seguridad de la información con nuestros clientes. La seguridad y confianza de los clientes y de nuestros colaboradores es lo más importante.
+- Realizar análisis de datos exploratorios (EDA) para comprender mejor los conjuntos de datos.
+- Generar informes y visualizaciones que ayuden a la toma de decisiones.
+- Aplicar técnicas de aprendizaje automático para predecir tendencias y patrones.
+- Entregar análisis de Inteligencia de Mercados.
 
 
+## Tecnologías
+
+Utilizamos una variedad de tecnologías y herramientas en nuestro trabajo, incluyendo:
+
+- Modeler
+- Python
+- R
+- Jupyter Notebook
+- SQL
+- PowerBi
+- Power Automate
+
+
+## Metodología analítica
+<img src="https://pbs.twimg.com/media/FIThBB5XwAMhV5t.jpg" alt="Descripción de la imagen" width="500" height="500">
+
+
+¡Gracias por visitar nuestro repositorio!
 
